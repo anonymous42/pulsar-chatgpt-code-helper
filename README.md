@@ -24,9 +24,12 @@ After specifying the key, reload Pulsar.
 
 Now you can use the package.
 
-While editing any file, write your prompt right in the text file.
+While editing any file, write your prompt right in the editor and select the required text, after that click on "Prompt ChatGPT" in the context menu or simply press Ctrl+Alt+K.
 
 All selected text will be sent to ChatGPT, so you can generate new code by selecting only prompt string or fix existing code by selecting fix prompt and the code that needs to be fixed.
+
+### Known issues:
+- ChatGPT answer is added only after everything was generated, no status or intermediate result is shown.
 
 ### Thanks:
 
