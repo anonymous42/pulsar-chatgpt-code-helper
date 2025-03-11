@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Prompt ChatGPT",
+        "command": "chatgpt-code-helper:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "chatgpt-code-helper",
+          "submenu": [
+            {
+              "label": "Prompt ChatGPT",
+              "command": "chatgpt-code-helper:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
