@@ -18,6 +18,13 @@ ChatGPT:
   Model: "gpt-4o"
 ```
 
+After specifying the key, reload Pulsar.
+
+Now you can use the package.
+While editing any file, write your prompt right in the text file.
+
+All selected text will be sent to ChatGPT, so you can generate new code by selecting only prompt string or fix existing code by selecting fix prompt and the code that needs to be fixed.
+
 ### Thanks:
 
 - https://github.blog/news-insights/building-your-first-atom-plugin/ for fetch function
