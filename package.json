@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "chatgpt-code-helper:fetch"
   },
-  "repository": "https://github.com/anonymous42/chatgpt-code-helper",
+  "repository": "https://github.com/anonymous42/pulsar-chatgpt-code-helper",
   "license": "GPL-3.0-or-later",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
