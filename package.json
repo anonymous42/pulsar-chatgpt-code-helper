@@ -1,12 +1,12 @@
 {
   "name": "chatgpt-code-helper",
   "main": "./lib/chatgpt-code-helper",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Fix and create code using ChatGPT",
   "keywords": [
-      "AI",
-      "ChatGPT",
-      "copilot"
+    "AI",
+    "ChatGPT",
+    "copilot"
   ],
   "activationCommands": {
     "atom-workspace": "chatgpt-code-helper:fetch"
@@ -16,6 +16,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
