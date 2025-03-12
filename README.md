@@ -28,9 +28,6 @@ While editing any file, write your prompt right in the editor and select the req
 
 All selected text will be sent to ChatGPT, so you can generate new code by selecting only prompt string or fix existing code by selecting fix prompt and the code that needs to be fixed.
 
-### Known issues:
-- ChatGPT answer is added only after everything was generated, no status or intermediate result is shown.
-
 ### Thanks:
 
 - https://github.blog/news-insights/building-your-first-atom-plugin/ for fetch function
