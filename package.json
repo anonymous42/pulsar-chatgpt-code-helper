@@ -1,7 +1,7 @@
 {
   "name": "chatgpt-code-helper",
   "main": "./lib/chatgpt-code-helper",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Fix and create code using ChatGPT",
   "keywords": [
     "AI",
