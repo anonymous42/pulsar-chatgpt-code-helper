@@ -28,10 +28,6 @@ While editing any file, write your prompt right in the editor and select the req
 
 All selected text will be sent to ChatGPT, so you can generate new code by selecting only prompt string or fix existing code by selecting fix prompt and the code that needs to be fixed.
 
-### Known issues:
-
-- During answer generation all quotes and braces are matched by bracket-matcher package, so now it's temporarily disabled during generation.
-
 ### Thanks:
 
 - https://github.blog/news-insights/building-your-first-atom-plugin/ for fetch function
